@@ -1,0 +1,3 @@
+.build/							usr/src/swiftstarter
+terraform/scripts/install.sh	usr/src/swiftstarter
+terraform/scripts/start.sh		usr/src/swiftstarter
