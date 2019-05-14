@@ -21,7 +21,7 @@
 
 # Create and deploy a basic Swift Kitura application
 
-> We have similar applications available for [Node.js](https://github.com/IBM/nodejs-web-app), [Java Spring](https://github.com/IBM/spring-web-app), [Go](https://github.com/IBM/go-web-app), [Python Flask](https://github.com/IBM/flask-web-app), and [Java Liberty](https://github.com/IBM/java-liberty-web-app).
+> We have similar applications available for [Node.js](https://github.com/IBM/nodejs-starter), [Java Spring](https://github.com/IBM/spring-starter), [Go](https://github.com/IBM/go-starter), [Python Flask](https://github.com/IBM/flask-starter), and [Java Liberty](https://github.com/IBM/java-liberty-starter).
 
 In this sample application, you will create a basic application using [Kitura](https://www.kitura.io/), complete with standard best practices, including a health check and application metric monitoring.
 
