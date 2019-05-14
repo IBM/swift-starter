@@ -64,7 +64,7 @@ ibmcloud dev build
 ibmcloud dev run
 ```
 
-This will launch you application locally.  When you are ready to deploy to IBM Cloud on CloudFoundry or Kubernetes, run one of the commands below:
+This will launch your application locally.  When you are ready to deploy to IBM Cloud on CloudFoundry or Kubernetes, run one of the commands below:
 
 ```bash
 ibmcloud dev deploy -t buildpack
