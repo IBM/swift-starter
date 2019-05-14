@@ -28,7 +28,7 @@ In this sample application, you will create a basic application using [Kitura](h
 
 ## Steps
 
-You can [deploy this application to IBM Cloud](https://cloud.ibm.com/developer/appservice/create-app?navMode=starterkits) or [build it locally](#building-locally) by cloning this repo first.  Once your app is live, you can access the `/health` and `/swiftmetrics-dash` to build out your cloud native application.
+You can [deploy this application to IBM Cloud](https://cloud.ibm.com/developer/appservice/create-app?navMode=starterkits) or [build it locally](#building-locally) by cloning this repo first.  Once your app is live, you can access the `/health` and `/swiftmetrics-dash` endpoints to build out your cloud native application.
 
 ### Deploying to IBM Cloud
 
