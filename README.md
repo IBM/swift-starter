@@ -53,7 +53,7 @@ To get started building this application locally, you can either run the applica
 
 In the root of this project, first build the application using `swift build`. `swift run` will launch the application and render it at `http://localhost:8080`.
 
-#### IBM Cloud Developer Tools
+/*#### IBM Cloud Developer Tools
 
 Install [IBM Cloud Developer Tools](https://cloud.ibm.com/docs/cli/index.html#overview) on your machine by using the following installation command: `curl -sL https://ibm.biz/idt-installer | bash`.
 
@@ -76,7 +76,7 @@ You can build and debug your app locally with:
 ```bash
 ibmcloud dev build --debug
 ibmcloud dev debug
-```
+```*/
 
 ## Next Steps
 * Learn more about augmenting your Swift applications on IBM Cloud with the [Swift Programming Guide](https://cloud.ibm.com/docs/swift).
