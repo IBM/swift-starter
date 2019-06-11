@@ -71,7 +71,7 @@ ibmcloud dev deploy -t buildpack
 ibmcloud dev deploy -t container
 ```
 
-You can build and debug your app locally with:
+You can debug your app locally with:
 
 ```bash
 ibmcloud dev build --debug
