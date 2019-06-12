@@ -9,7 +9,7 @@
     <a href="https://cloud.ibm.com">
     <img src="https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg" alt="IBM Cloud">
     </a>
-    <img src="https://img.shields.io/badge/platform-ios_swift-lightgrey.svg?style=flat" alt="platform">
+    <img src="https://img.shields.io/badge/platform-swift-lightgrey.svg?style=flat" alt="platform">
     <img src="https://img.shields.io/badge/os-macOS-green.svg?style=flat" alt="macOS">
     <img src="https://img.shields.io/badge/os-linux-green.svg?style=flat" alt="Linux">
     <img src="https://img.shields.io/badge/license-Apache2-blue.svg?style=flat" alt="Apache 2">
