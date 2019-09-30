@@ -1,6 +1,8 @@
-FROM ibmcom/swift-ubuntu-runtime:4.2.3
+FROM swift:5.1
 LABEL maintainer="IBM Swift Engineering at IBM Cloud"
 LABEL Description="Template Dockerfile that extends the ibmcom/swift-ubuntu-runtime image."
+
+RUN apt-get update && apt-get install -y sudo openssl libssl-dev libcurl4-openssl-dev
 
 # We can replace this port with what the user wants
 EXPOSE 8080
