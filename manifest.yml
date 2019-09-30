@@ -6,5 +6,3 @@ applications:
   buildpack: swift_buildpack
   command: "'swiftstarter'"
   memory: 128M
-  domain: not-used.net
-  host: not-used

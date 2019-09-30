@@ -48,8 +48,8 @@ To get started building this application locally, you can either run the applica
 
 #### Native Application Development
 
-- On Linux, install the [Swift toolchain](https://swift.org/) version _v5.0_.
-- On macOS, install [Xcode](https://developer.apple.com/download) _v10.2+_
+- On Linux, install the [Swift toolchain](https://swift.org/) version _v5.1_.
+- On macOS, install [Xcode](https://developer.apple.com/download) _v11+_
 
 In the root of this project, first build the application using `swift build`. `swift run` will launch the application and render it at `http://localhost:8080`.
 
