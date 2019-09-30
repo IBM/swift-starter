@@ -1,6 +1,6 @@
 FROM swift:5.1
 LABEL maintainer="IBM Swift Engineering at IBM Cloud"
-LABEL Description="Template Dockerfile that extends the ibmcom/swift-ubuntu image."
+LABEL Description="Template Dockerfile that extends the swift image."
 
 RUN apt-get update && apt-get install -y sudo openssl libssl-dev libcurl4-openssl-dev
 
